@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Giantpie12
+- 👀 My interests include learning, exploring and discussing the latest technologies as well as developing my skillset in various programming languages (C, Python and JavaScript)
+- 🌱 I’m currently learning how to program in R.
